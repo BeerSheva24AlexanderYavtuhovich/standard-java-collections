@@ -2,3 +2,7 @@
 
 ## displayDigitsDistribution
 ## getParenthesesMaps
+
+# CW 32
+
+## LinkedHashMap features

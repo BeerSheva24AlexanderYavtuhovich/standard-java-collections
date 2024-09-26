@@ -90,4 +90,5 @@ public class MapTasks {
                 .flatMap(number -> IntStream.iterate(number, n -> n > 0, n -> n / 10)
                         .map(n -> n % 10));
     }
+
 }
